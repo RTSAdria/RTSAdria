@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rtsadria&label=Profile%20views&color=0e75b6&style=flat" alt="RTSAdria" /> </p>
 <h1 align="center">Hi, I'm Adrian 👋💻 </h1>
-<p align="center"><br><img src="https://github.com/RTSAdria/AdrienzD/blob/main/programm.gif" width="450"><br><br>
+<p align="center"><br><img src="https://github.com/RTSAdria/RTSAdria/blob/main/programm.gif" width="450"><br><br>
     <em>[May the <b>CODE</b> be with you]</em>
 #<h3>🤖Introducing me</h3>
 <details open>
